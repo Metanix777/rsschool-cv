@@ -24,3 +24,32 @@ I'm not afraid to take responsibility. I want to learn and develop in Frontend.
 -   Knowledge of 1C, VB, SQL;
 -   Development and introduction of new functionality;
 -   Strong interpersonal and communication skills;
+
+## Code Examples
+
+Digital root is the recursive sum of all the digits in a number.
+
+Given n, take the sum of the digits of n. If that value has more than one digit, continue reducing in this way until a single-digit number is produced. The input will be a non-negative integer.
+
+```
+function digital_root(n) {
+  let result = +String(n).split('').reduce((res, x) => +res + +x);
+  return n > 9 ? digital_root(result) : result;
+}
+```
+
+## Experience
+
+**January 2018 – Today - software engineer, Liftservis OJSC, Minsk, Belarus**  
+**Projects:** Support VB and 1C apps;  
+**Tasks and Accomplishments:**
+
+-   Development of new modules;
+-   Adding new features;
+
+## Education
+
+University : POLESSU(Pinsk, Belarus, 2015-2018)
+Information technology financial and credit systems.
+
+Udemy: [Javascript + React](https://www.udemy.com/course/javascript_full/) (in progress...)
