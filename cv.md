@@ -5,8 +5,8 @@
 -   **Location:** Minsk, Belarus
 -   **Mobile Phone:** +375(33)690-72-61
 -   **Email:** shukalo.96@gmail.com
--   **GitHub:** Metanix777
--   **Linkedin:** https://www.linkedin.com/in/ivan-shukalo/
+-   **GitHub:** [Metanix777](https://github.com/Metanix777)
+-   **[Linkedin](https://www.linkedin.com/in/ivan-shukalo/)**
 
 ## About Me
 
