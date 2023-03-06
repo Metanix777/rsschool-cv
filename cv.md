@@ -12,3 +12,15 @@
 
 Responsible, sociable, hardworking, capable of self-education. I like to spend my free time in the gym, read books, spend time in a pleasant company.
 I'm not afraid to take responsibility. I want to learn and develop in Frontend.
+
+## Skils
+
+-   Knowledge of the OOP, principles and design patterns;
+-   HTML;
+-   CSS (Sass/SCSS, BEM);
+-   Javascript (ES5+);
+-   Basic React, Styled Components;
+-   Photoshop, Figma;
+-   Knowledge of 1C, VB, SQL;
+-   Development and introduction of new functionality;
+-   Strong interpersonal and communication skills;
